@@ -1,0 +1,6 @@
+c:\users\keppn\documents\visual studio 2015\Projects\SofthemeTask\SofthemeTask\bin\Debug\SofthemeTask.exe.config
+c:\users\keppn\documents\visual studio 2015\Projects\SofthemeTask\SofthemeTask\bin\Debug\SofthemeTask.exe
+c:\users\keppn\documents\visual studio 2015\Projects\SofthemeTask\SofthemeTask\bin\Debug\SofthemeTask.pdb
+c:\users\keppn\documents\visual studio 2015\Projects\SofthemeTask\SofthemeTask\obj\Debug\SofthemeTask.csprojResolveAssemblyReference.cache
+c:\users\keppn\documents\visual studio 2015\Projects\SofthemeTask\SofthemeTask\obj\Debug\SofthemeTask.exe
+c:\users\keppn\documents\visual studio 2015\Projects\SofthemeTask\SofthemeTask\obj\Debug\SofthemeTask.pdb
